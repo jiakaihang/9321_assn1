@@ -4,7 +4,9 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>Welcome to MUniverse!</title>
 	</head>
-	<body>
+	
+	
+	<body background="Imgs/BGImg.jpg"style="background-repeat: no-repeat;background-attachment: scroll;margin: auto;">
 		<center>
 		<br>
 		<h1 style="font-family: verdana; color: red;"> MUniverse Online Music Store</h1>

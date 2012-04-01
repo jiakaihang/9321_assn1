@@ -9,7 +9,7 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>MUsic Search</title>
 	</head>
-	<body>
+	<body background="Imgs/BGImg1.jpg"style="background-repeat: no-repeat;background-attachment: scroll;margin: auto;">
 	<br>&nbsp;<br>
 	<br>&nbsp;<br>
 		<center>

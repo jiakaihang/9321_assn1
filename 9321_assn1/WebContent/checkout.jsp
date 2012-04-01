@@ -8,8 +8,8 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 	<title>Check-Out!</title>
-	</head>
-	<body>
+	</head>	
+	<body background="Imgs/BGImg1.jpg"style="background-repeat: no-repeat;background-attachment: scroll;margin: auto;">
 		<h2>Shopping List: </h2>
 		<center>
 		<form action='search.jsp' method='POST'>
@@ -82,7 +82,7 @@
 			
 			%>
 			<label>Finish Searching?</label><br>
-			<input type="submit" value="No" style="width:120px;height:30px;
+			<input type="submit" value="Not yet!" style="width:120px;height:30px;
 				font-family:sans-serif;font-weight:bold;font-style:italic;">&nbsp;
 			</h3>
 			</form>
@@ -90,7 +90,7 @@
 
 			<center>
 			<form action='done.jsp' method="post">
-			<input type="submit" value="Yes" style="width:120px;height:30px;
+			<input type="submit" value="Pay" style="width:120px;height:30px;
 				font-family:sans-serif;font-weight:bold;font-style:italic;">&nbsp;
 			</form>
 			</center>

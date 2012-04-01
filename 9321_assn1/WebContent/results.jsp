@@ -9,7 +9,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>MUniverse Search Result</title>
 </head>
-<body>
+	<body background="Imgs/BGImg1.jpg"style="background-repeat: no-repeat;background-attachment: scroll;margin: auto;">
     <center>
     	<form action='checkout.jsp' method='POST'>
 			<h2 align=center style="font-family: sans-serif; color: red;">
